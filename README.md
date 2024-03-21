@@ -6,6 +6,10 @@ This repository contains the code for implementing a deep learning model for gen
 
 The task involves training a model to understand the content of an image and generate a human-like description of what is happening in the image. The model architecture leverages a combination of convolutional neural networks (CNNs) for image feature extraction and recurrent neural networks (RNNs) for generating captions.
 
+## Dataset
+
+The project utilizes the Flickr8K dataset on Kaggle, which consists of images along with corresponding captions.
+
 ## Key Components
 
 ### VGG16
